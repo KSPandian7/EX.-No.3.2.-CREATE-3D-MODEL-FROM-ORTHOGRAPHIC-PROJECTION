@@ -42,7 +42,8 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
-[ex3.2 KSP.pdf](https://github.com/KSPandian7/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/files/11259910/ex3.2.KSP.pdf)
+![ex3 2 KSP_page-0001](https://user-images.githubusercontent.com/113496887/232726965-a17c3788-983a-458a-b05e-d8f2ddde1d0f.jpg)
+
 
 
 ## RESULT:
